@@ -7,3 +7,5 @@ updating the file in git hub editor
 updtaing second time in github to check pull in local
 
 updating text in local computer
+
+updtaing the file in first_branch and commit it in first_branch
